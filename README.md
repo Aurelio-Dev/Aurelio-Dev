@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente, estou aprendendo de tudo 🤣 🤣
 
-![Aurelio github stats](https://github-readme-stats.vercel.app/api?username=Aurelio-Dev&show_icons=true&theme=radical)
+![Aurelio github stats](https://github-readme-stats.vercel.app/api?username=Aurelio-Dev&show_icons=true&theme=dark)
 
 ### Conecte-se comigo:
 
