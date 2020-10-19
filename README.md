@@ -5,6 +5,7 @@
 
 - 🌱 Atualmente, estou aprendendo de tudo 🤣 🤣
 
+![Aurelio github stats](https://github-readme-stats.vercel.app/api?username=Aurelio-Dev&show_icons=true&theme=radical)
 
 ### Conecte-se comigo:
 
@@ -12,8 +13,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-![Aurelio github stats](https://github-readme-stats.vercel.app/api?username=Aurelio-Dev&show_icons=true&theme=radical)
 
 ### Linguagens e ferramentas:
 
