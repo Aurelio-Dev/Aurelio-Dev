@@ -2,9 +2,6 @@
 ### Hello World!, Me chamo Aurelio 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aureliooruotolo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=aureliooruotolo)
-
-
 - 🌱 Atualmente, estou aprendendo de tudo 🤣 🤣
 
 ![Aurelio github stats](https://github-readme-stats.vercel.app/api?username=Aurelio-Dev&show_icons=true&theme=dark)
