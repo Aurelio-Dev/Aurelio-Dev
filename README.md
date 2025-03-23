@@ -2,7 +2,7 @@
 ### Hello World!, Me chamo Aurelio 👋
 
 
-- 🌱 Atualmente, estou aprendendo de tudo 🤣 🤣
+- 🌱 Atualmente, estou aprendendo Front-End
 
 ![Aurelio github stats](https://github-readme-stats.vercel.app/api?username=Aurelio-Dev&show_icons=true&theme=dark)
 
