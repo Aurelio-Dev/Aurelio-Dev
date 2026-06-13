@@ -90,18 +90,6 @@ status:        ONLINE ███████████████████�
 <tr>
 <td align="center" width="110">
 
-<img src="https://skillicons.dev/icons?i=c" width="40" alt="C"/><br>
-<sub><b>C</b></sub>
-
-</td>
-<td align="center" width="110">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++"/><br>
-<sub><b>C++</b></sub>
-
-</td>
-<td align="center" width="110">
-
 <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/><br>
 <sub><b>Git</b></sub>
 
