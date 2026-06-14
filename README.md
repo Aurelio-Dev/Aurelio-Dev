@@ -170,8 +170,7 @@ status:        ONLINE ███████████████████�
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://seuportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:ruotolooaurelioo@gmail.com)
 
 </div>
 
