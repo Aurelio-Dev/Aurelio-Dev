@@ -1,6 +1,6 @@
-````md
+
 <div align="center">
-  <img src="./assets/banner.png" alt="Aurélio Dev Banner" width="100%" />
+  <img src="./assets/Icon.png" alt="Aurélio Dev Banner" width="100%" />
 </div>
 
 <br>
