@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./assets/Icon.png" alt="Aurélio Dev Banner" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- HEADER — MECHA CORE IDENTITY                                   -->
