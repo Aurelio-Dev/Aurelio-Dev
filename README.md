@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/Icon1.png" alt="Aurélio Dev Banner" width="100%" />
+  <img src="./assets/NeuraBanner.png" alt="Aurélio Dev Banner" width="100%" />
 </div>
 
 <br>
