@@ -1,14 +1,14 @@
 
 <div align="center">
-  <img src="./assets/NeuraBanner.png" alt="Aurélio Dev Banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=60&lines=%3E+Initializing+profile+interface...;%3E+Developer+%7C+IFSP+%7C+Building+the+next+layer" alt="Typing SVG" />
+
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=60&lines=%3E+Initializing+profile+interface...;%3E+Developer+%7C+IFSP+%7C+Building+the+next+layer" alt="Typing SVG" />
-
+  <img src="./assets/NeuraBanner.png" alt="Aurélio Dev Banner" width="100%" />
 </div>
 
 <br>
